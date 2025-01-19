@@ -11,7 +11,7 @@ Aquí puedes encontrar mis [proyectos](https://github.com/AndresGojdycz/Proyecto
   - Power BI 
 
 ### Contáctame 👋🏻
-- [Linkedin](https://www.linkedin.com/in/andres-gojdycz/)
+- [Linkedin](https://www.linkedin.com/in/andres-gojdycz-6b9134192/)
 - andgojdycz@gmail.com
 <!--
 **AndresGojdycz/AndresGojdycz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
