@@ -2,7 +2,7 @@
  Hola, soy Andrés. Economista con conocimientos en data science, cursando el segundo año de la maestría en ciencia de datos en la Universidad de Montevideo.
 
 ### 📚 Proyectos
-Aquí puedes encontrar mis [proyectos](https://github.com/AndresGojdycz?tab=projects)
+Aquí puedes encontrar mis [proyectos](https://github.com/AndresGojdycz/Proyectos)
 
 ### 🛠️ Herramientas
   - Python
